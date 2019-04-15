@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SortTest/SortTest.unity
+  isLoaded: 1
+  isActive: 1
