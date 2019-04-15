@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1472
     height: 821
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 498}
   m_MaxSize: {x: 12008, y: 14048}
   vertical: 1
-  controlID: 93
+  controlID: 106
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 224}
   m_MaxSize: {x: 12008, y: 4024}
   vertical: 0
-  controlID: 94
+  controlID: 107
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -419,7 +419,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 94230000
       m_LastClickedID: 0
       m_ExpandedIDs: d4fbffff
       m_RenameOverlay:
@@ -481,10 +481,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -350.4
-    m_HBaseRangeMax: 350.4
-    m_VBaseRangeMin: -184
-    m_VBaseRangeMax: 184
+    m_HBaseRangeMin: -438
+    m_HBaseRangeMax: 438
+    m_VBaseRangeMin: -230
+    m_VBaseRangeMax: 230
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -504,7 +504,7 @@ MonoBehaviour:
       y: 17
       width: 876
       height: 460
-    m_Scale: {x: 1.25, y: 1.25}
+    m_Scale: {x: 1, y: 1}
     m_Translation: {x: 438, y: 230}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -589,19 +589,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/SortTest
+    - Assets/AR_Test
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/SortTest
+  - Assets/AR_Test
   m_LastFoldersGridSize: 64
   m_LastProjectPath: D:\Unity5 3D\TestingProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: da290000
-    m_LastClickedID: 10714
+    m_SelectedIDs: 38280000
+    m_LastClickedID: 10296
     m_ExpandedIDs: 00000000e4270000ee2800001e29000076290000642a0000802a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -657,7 +657,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c624000078f6fffff62300002c280000d27efeff0424000044240000fa23000046240000aa2500002425000026250000442500006cd2000046250000000000007e3a00008a15020086390000fa4500000a380000965200000a320000347a0000a82c0000aa0b0000b84000000e3c00009c0b0000f40c00008c470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

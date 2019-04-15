@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public abstract class SortClass : MonoBehaviour
 {
-    [Range(0,10)]
+    [Range(0,30)]
     public int listLength;
     public int[] list;
     public Text beforeText;
